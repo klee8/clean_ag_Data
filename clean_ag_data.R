@@ -1,7 +1,6 @@
 #  Combine and clean datasets (2017 livestock counts (on Table 1) and 1994 livestock counts) to create a single dataset
 
 library(tidyverse)
-install.packages("svglite")
 library(svglite)
 
 # read in 1994 data and transform
